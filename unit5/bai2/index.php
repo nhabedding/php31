@@ -19,6 +19,7 @@ require("dulieu.php");
 		<a href="cart.php">Xem giỏi hàng</a>
 		<table class="table table-bordered">
 			<thead>
+				//thead là thẻ dòng đầu in đậm "xác địch dòng đầu trong bảng"
 				<tr>
 					<th>Mã sản phẩm</th>
 					<th>Tên sản phẩm</th>
